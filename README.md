@@ -1,4 +1,4 @@
-# Pokedex React 
+# Pokedéx React 
 
 ### Aplicação feita em React.js, Bootstrap e JavaScript 
 

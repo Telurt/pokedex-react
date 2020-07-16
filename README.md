@@ -3,6 +3,9 @@
 ### Aplicação feita em React.js, Bootstrap e JavaScript 
 
 
+<h1 align="center">
+    <img alt="" pokedex="" src="pokedex.png">
+</h1>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -73,6 +73,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
+<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/telurt" target="_blank">telurt</a> </h4>
+
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

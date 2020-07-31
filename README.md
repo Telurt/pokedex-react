@@ -1,6 +1,6 @@
 # Pokedéx React 
 
-### Aplicação feita em React.js, Bootstrap e JavaScript 
+### Aplicação feita em React.js, Bootstrap e JavaScript  
 
 
 <h1 align="center">
